@@ -1,9 +1,11 @@
 # README
 
-HOW TO GET STARTED
+```HOW TO GET STARTED
 -CLONE REPO
--RUN ```bundle```
--THEN RUN ```rails s```
+
+-RUN bundle
+
+-THEN RUN rails s```
 
 Rails Backend
 
