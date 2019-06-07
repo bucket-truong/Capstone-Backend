@@ -1,9 +1,6 @@
 Rails.application.routes.draw do
-  
-  get '/', to: 'saps#show'
-
+  post '/extracttext', to: 'saps#create'
   get '/translate', to: 'translations#show'
-
 end
 
 
