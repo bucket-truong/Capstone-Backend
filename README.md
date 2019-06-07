@@ -1,11 +1,12 @@
 # README
 
-```HOW TO GET STARTED
--CLONE REPO
+```
+HOW TO GET STARTED
+1. CLONE REPO
 
--RUN bundle
+2. RUN bundle
 
--THEN RUN rails s
+3. THEN RUN rails s
 ```
 Rails Backend
 
