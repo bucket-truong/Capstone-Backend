@@ -1,6 +1,5 @@
 class SapsController < ApplicationController
   def create
-  byebug
     extract = Sap.extract_text(params[:file])
     pay = JSON.parse(extract)
     payStr = pay["predictions"][0]
