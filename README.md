@@ -5,8 +5,8 @@
 
 -RUN bundle
 
--THEN RUN rails s```
-
+-THEN RUN rails s
+```
 Rails Backend
 
 -React will make a request to rails once an image is uploaded. 
